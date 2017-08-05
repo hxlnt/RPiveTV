@@ -19,7 +19,7 @@ module.exports = function (context, myQueueItem) {
     .then(function(result){ 
         videoresult = JSON.parse(result.body)
         context.log(`first video breakdown id: ${videoresult.results[0].id}`);
-        Vindexer.getVttUrl(videoresult.results[0].id).then(function (result){ context.log(result); });
+        Vindexer.getVttUrl(videoresult.results[0].id).then(function (result){ context.log(`VTT URL: ${result.body}`); });
     })
 
     tableSvc.queryEntities('bluescreenofdeath', query, null, function (error, result, response) {
