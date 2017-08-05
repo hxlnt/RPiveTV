@@ -15,8 +15,8 @@ module.exports = function (context, myQueueItem) {
         language: 'English',
         searchInPublicAccount: false
     }).then( function(result){ 
-        context.log(`results: ${result.body}`);
-        context.log(Vindexer.getVttUrl(result[0].id));
+        context.log(`results: ${result.results}`);
+        context.log(Vindexer.getVttUrl(result.results[0].id));
     } );
 
     tableSvc.queryEntities('bluescreenofdeath', query, null, function (error, result, response) {
