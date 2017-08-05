@@ -3,16 +3,27 @@ module.exports = function (context, myQueueItem) {
     
     
     //Set up Azure Storage credentials
-    var azure = require('azure-storage')
-    var tableSvc = azure.createTableService(process.env.azurestoragename, process.env.azurestoragekey)
+    const azure = require('azure-storage');
+    const tableSvc = azure.createTableService(process.env.azurestoragename, process.env.azurestoragekey);
+    const vindexer = require("video-indexer");
+    const Vindexer = new vindexer(process.env.videoindexerkey);
 
-    var query = new azure.TableQuery().where('VTT eq ?', '');
+    const query = new azure.TableQuery().where('VTT eq ?', '');
     
     tableSvc.queryEntities('bluescreenofdeath', query, null, function(error, result, response) {
         if(!error) {
             context.log(result.entries)
             for (i=0; i<result.entries.length; i++) {
-                
+                Vindexer.uploadVideo(result.entries[i].url._, {
+                    name: result.entries[i].RowKey._ + result.entries[i].RowKey._,
+                    privacy: 'Private', 
+                    language: 'English'
+                })
+                .then(Vindexer.getVttUrl(result.body))
+                .then(tableSvc.mergeEntity('bluescreenofdeath', task, {echoContent: true}, function (error, result, response) {
+                    var updatevtt = { VTT: result.body };
+                    context.log(`vtt updated: ${result.body});
+                });
             }
         }
         else { context.log(`error`); }
