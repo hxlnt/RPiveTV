@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Value": {
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=rpivetv;AccountKey=jBWnB8hHRO1IlGbBuL254Ic8WH5oiCeBTJPy1zWcC1Kt1xcPpqriyJY5sOFLIgmwJYd7paOxjGIPP9QS2Ov+6w==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=rpivetv;AccountKey=jBWnB8hHRO1IlGbBuL254Ic8WH5oiCeBTJPy1zWcC1Kt1xcPpqriyJY5sOFLIgmwJYd7paOxjGIPP9QS2Ov+6w==",
+    "WEBSITE_CONTENTSHARE": "rpivetv873c",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=rpivetv;AccountKey=jBWnB8hHRO1IlGbBuL254Ic8WH5oiCeBTJPy1zWcC1Kt1xcPpqriyJY5sOFLIgmwJYd7paOxjGIPP9QS2Ov+6w==",
+    "WEBSITE_SITE_NAME": "rpivetv"
+  }
+}
