@@ -2,7 +2,7 @@
   "name": "rpivetv",
   "version": "1.0.0",
   "description": "rpivetv",
-  "main": "app.js",
+  "main": "index.js",
   "dependencies": {
     "azure-storage": "^2.1.0"
   },
