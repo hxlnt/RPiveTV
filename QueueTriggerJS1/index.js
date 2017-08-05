@@ -10,9 +10,9 @@ module.exports = function (context, myQueueItem) {
     
     tableSvc.queryEntities('bluescreenofdeath', query, null, function(error, result, response) {
         if(!error) {
-            console.log(result.entries)
+            context.log(result.entries)
         }
-        else { console.log(`error`); }
+        else { context.log(`error`); }
     });
     
     context.done();
