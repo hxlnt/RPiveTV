@@ -15,7 +15,7 @@ module.exports = function (context, myQueueItem) {
         language: 'English',
         searchInPublicAccount: false
     }).then( function(result){ 
-        context.log(result.body.results[0].id);
+        context.log(result.body);
         context.log(Vindexer.getVttUrl(result.body.results[0].id));
     } );
 
