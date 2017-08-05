@@ -1,0 +1,2195 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.990
+This
+
+00:00:01.990 --> 00:00:03.930
+is a Toys R Us store in Redwood
+
+00:00:03.930 --> 00:00:04.950
+City, California,
+
+00:00:04.950 --> 00:00:07.772
+but from what you see hanging on the rack serious
+
+00:00:07.830 --> 00:00:09.730
+think about to be called Software
+
+00:00:09.730 --> 00:00:10.470
+R Us. Most
+
+00:00:10.470 --> 00:00:11.600
+of the titles being
+
+00:00:11.600 --> 00:00:13.480
+sold here are for the Commodore
+
+00:00:13.480 --> 00:00:14.160
+64, one of the
+
+00:00:14.160 --> 00:00:15.580
+original home computers.
+
+00:00:15.580 --> 00:00:16.610
+But there's a lot
+
+00:00:16.610 --> 00:00:17.520
+of life left in
+
+00:00:17.520 --> 00:00:18.710
+that old machine new
+
+00:00:18.710 --> 00:00:20.990
+software titles. Still, coming out for?
+
+00:00:20.990 --> 00:00:22.520
+What is still a very large
+
+00:00:22.520 --> 00:00:23.710
+installed user base.
+
+00:00:23.710 --> 00:00:24.510
+Today we take
+
+00:00:24.510 --> 00:00:27.069
+a look at an oldie but goodie Commodore 64 on
+
+00:00:27.126 --> 00:00:29.400
+this edition of the Computer Chronicles.
+
+00:00:51.600 --> 00:00:53.530
+Chronicles is made possible
+
+00:00:53.530 --> 00:00:54.770
+in part by McGraw
+
+00:00:54.770 --> 00:00:58.998
+Hill Publishers, a Byte Magazine and fix the bite information
+
+00:00:59.068 --> 00:01:02.950
+exchange in print and online bite and big serve computer
+
+00:01:03.019 --> 00:01:03.920
+professionals
+
+00:01:03.920 --> 00:01:04.950
+worldwide with
+
+00:01:04.950 --> 00:01:06.390
+detailed information
+
+00:01:06.390 --> 00:01:07.560
+on new hardware,
+
+00:01:07.560 --> 00:01:09.420
+software, and technologies.
+
+00:01:13.220 --> 00:01:15.490
+No.
+
+00:01:15.490 --> 00:01:17.840
+Welcome to the computer chronicles stewardship.
+
+00:01:17.840 --> 00:01:18.030
+Hey
+
+00:01:18.030 --> 00:01:20.040
+this is Gary killed on your him playing.
+
+00:01:20.040 --> 00:01:21.460
+This new game from Spectrum
+
+00:01:21.460 --> 00:01:24.050
+Holobyte called Tetris interesting thing about it.
+
+00:01:24.050 --> 00:01:24.790
+It's the first
+
+00:01:24.790 --> 00:01:25.670
+game software, so
+
+00:01:25.670 --> 00:01:27.720
+many states would my Russian programmers.
+
+00:01:27.720 --> 00:01:30.439
+But what's really interesting is here's a hot new piece
+
+00:01:30.489 --> 00:01:33.010
+of software out machine does it come out for first.
+
+00:01:33.010 --> 00:01:34.330
+The good old Commodore 64.
+
+00:01:34.330 --> 00:01:36.530
+This is the model day of personal computers.
+
+00:01:36.530 --> 00:01:38.190
+Yet people are still buying them.
+
+00:01:38.190 --> 00:01:40.946
+People are writing new software for hot come through his
+
+00:01:40.996 --> 00:01:43.604
+you know gesture mill had a Commodore before he moved
+
+00:01:43.654 --> 00:01:46.410
+over to the Tarring and Jack's philosophy is to minimize
+
+00:01:46.410 --> 00:01:49.051
+the end-user price and just flood the market with the
+
+00:01:49.101 --> 00:01:49.500
+product.
+
+00:01:49.500 --> 00:01:51.360
+He did it with a $10 calculator them.
+
+00:01:51.360 --> 00:01:53.827
+These are that one. He did also with the Commodore
+
+00:01:53.876 --> 00:01:56.195
+64 less than $200. The competition is 5 times that
+
+00:01:56.244 --> 00:01:56.540
+price.
+
+00:01:56.540 --> 00:01:58.931
+It's a big good basic computer for a very formal
+
+00:01:58.981 --> 00:01:59.330
+Christ.
+
+00:01:59.330 --> 00:02:00.510
+The result is there is,
+
+00:02:00.510 --> 00:02:02.320
+but 17 million. He's 9 states alone,
+
+00:02:02.320 --> 00:02:04.520
+he rides a real good hardware bed for software
+
+00:02:04.520 --> 00:02:07.821
+writers, 'cause they can take the software development constant amortize
+
+00:02:07.868 --> 00:02:09.330
+across these millions of units.
+
+00:02:09.330 --> 00:02:10.640
+The result is you get a lot
+
+00:02:10.640 --> 00:02:12.370
+of good software to very affordable.
+
+00:02:12.370 --> 00:02:14.730
+Price Gary today. We're going to focus on the good
+
+00:02:14.777 --> 00:02:16.760
+old Commodore 64 will meet lots of C64.
+
+00:02:16.760 --> 00:02:18.810
+users and see the interesting applications.
+
+00:02:18.810 --> 00:02:20.450
+They've developed for the computer
+
+00:02:20.450 --> 00:02:21.570
+now. One of the reasons
+
+00:02:21.570 --> 00:02:23.657
+the Commodore 64 is still around is it got a
+
+00:02:23.704 --> 00:02:24.700
+new operating system.
+
+00:02:24.700 --> 00:02:25.770
+A couple of years ago,
+
+00:02:25.770 --> 00:02:28.478
+something called GeOS. We begin today by visiting the man
+
+00:02:28.525 --> 00:02:31.000
+who wrote GeOS: Brian Docherty at Berkeley Softworks.
+
+00:02:33.210 --> 00:02:37.367
+The history of personal computers is marked by some spectacular
+
+00:02:37.433 --> 00:02:38.950
+successes and failures.
+
+00:02:38.950 --> 00:02:40.840
+But the award for popularity
+
+00:02:40.840 --> 00:02:41.820
+must go to the
+
+00:02:41.820 --> 00:02:45.141
+Commodore 64, a little 8-bit machine that refuses to die.
+
+00:02:45.208 --> 00:02:45.540
+64 is
+
+00:02:45.540 --> 00:02:46.780
+commercial success
+
+00:02:46.780 --> 00:02:51.020
+and its enormous userbase have inspired some software developers
+
+00:02:51.020 --> 00:02:52.130
+to take a second
+
+00:02:52.130 --> 00:02:53.240
+look at the 64th
+
+00:02:53.240 --> 00:02:54.740
+potential one of those
+
+00:02:54.740 --> 00:02:58.969
+companies is Berkeley Softworks next to the University campus in
+
+00:02:59.035 --> 00:02:59.630
+Berkeley,
+
+00:02:59.630 --> 00:03:03.176
+California. where we did is we looked at these markets
+
+00:03:03.242 --> 00:03:06.460
+at the common 64 monitor the first than the Apple
+
+00:03:06.525 --> 00:03:09.940
+2 and basically it takes awhile for people to really
+
+00:03:09.940 --> 00:03:12.150
+push the machine to its total limits.
+
+00:03:12.150 --> 00:03:15.390
+Ann one of the things that we really believe in here
+
+00:03:15.456 --> 00:03:17.440
+that the rest of the software
+
+00:03:17.440 --> 00:03:21.063
+world I think is only really started to catch
+
+00:03:21.136 --> 00:03:21.580
+on to is
+
+00:03:21.580 --> 00:03:25.101
+very sophisticated development tools in the net of all that
+
+00:03:25.161 --> 00:03:25.340
+is,
+
+00:03:25.340 --> 00:03:26.920
+we're capable. Now it all.
+
+00:03:26.920 --> 00:03:30.867
+The applications for these machines that I don't think people
+
+00:03:30.932 --> 00:03:34.620
+really thought these machines were capable of performing.
+
+00:03:34.620 --> 00:03:39.534
+Most important product is the GeOS operating system a graphic
+
+00:03:39.614 --> 00:03:41.950
+interface for the 64 and 128
+
+00:03:41.950 --> 00:03:43.460
+that features pull-down
+
+00:03:43.460 --> 00:03:44.810
+menus. Icons and
+
+00:03:44.810 --> 00:03:50.303
+windows. Operating system opens the door to some very sophisticated
+
+00:03:50.385 --> 00:03:54.320
+applications like a spreadsheet called Geo Calc.
+
+00:03:54.320 --> 00:03:55.440
+And Geo file
+
+00:03:55.440 --> 00:03:56.380
+a database
+
+00:03:56.380 --> 00:04:00.120
+with user-designed forms.
+
+00:04:00.120 --> 00:04:03.980
+There's even a desktop publishing package, something
+
+00:04:03.980 --> 00:04:05.320
+usually requiring
+
+00:04:05.320 --> 00:04:07.750
+big memories and big budgets.
+
+00:04:07.750 --> 00:04:08.620
+But at Berkeley Softworks, it's
+
+00:04:08.620 --> 00:04:09.940
+all in the code memory
+
+00:04:09.940 --> 00:04:12.370
+is probably coding much more efficiently.
+
+00:04:12.370 --> 00:04:14.330
+The theorem of Computer Sciences.
+
+00:04:14.330 --> 00:04:17.330
+Any computer program can be implemented by one bit.
+
+00:04:17.330 --> 00:04:19.700
+Turing machine that's actually a theory.
+
+00:04:19.700 --> 00:04:22.010
+That's been proven in computer science,
+
+00:04:22.010 --> 00:04:25.148
+so even though this 8-bit processor is capable of doing all
+
+00:04:25.206 --> 00:04:28.519
+the things that are much more expensive computer like say
+
+00:04:28.577 --> 00:04:30.320
+a Macintosh or not being p****
+
+00:04:30.320 --> 00:04:32.788
+is capable of doing now may not be able to
+
+00:04:32.847 --> 00:04:33.670
+do it as fast.
+
+00:04:33.670 --> 00:04:37.190
+Although we try to make up for the limitations incapability.
+
+00:04:37.190 --> 00:04:39.790
+The machine by programming more efficiently.
+
+00:04:39.790 --> 00:04:42.730
+But you can actually do anything with the computer.
+
+00:04:56.260 --> 00:04:57.470
+Joining us in the studio now is
+
+00:04:57.470 --> 00:05:00.350
+Lucy Morton looses a member of the Diablo Valley Common.
+
+00:05:00.350 --> 00:05:02.988
+64 users group and next to Lucy is Mike Dunn's
+
+00:05:03.046 --> 00:05:06.200
+more a member of the Commodore owners of the Peninsula.
+
+00:05:06.200 --> 00:05:08.520
+Carey make the Commodore of uses groups,
+
+00:05:08.520 --> 00:05:12.320
+they principally see 64 users are puts a composition.
+
+00:05:12.320 --> 00:05:15.574
+There are some music groups that are just Commodore 64
+
+00:05:15.636 --> 00:05:18.389
+and there might be some that are have Amiga
+
+00:05:18.452 --> 00:05:18.890
+and 64.
+
+00:05:18.890 --> 00:05:20.190
+You can keep through
+
+00:05:20.190 --> 00:05:23.880
+bulletin boards over Modems is that correct.
+
+00:05:23.880 --> 00:05:27.270
+23 both border rbis is a large herd
+
+00:05:27.270 --> 00:05:29.990
+those bulletin boards run by
+
+00:05:29.990 --> 00:05:31.400
+64 centimeters
+
+00:05:31.400 --> 00:05:32.150
+or 9, I
+
+00:05:32.150 --> 00:05:38.640
+Generally on another machine. They might have 6464 um.
+
+00:05:38.640 --> 00:05:42.980
+Database downloads, Lucy Um maybe a little presumptuous
+
+00:05:42.980 --> 00:05:47.379
+of mne, but you don't appear to be the average game
+
+00:05:47.469 --> 00:05:51.330
+player of the you're using Hunter 64 by 64.
+
+00:05:51.330 --> 00:05:55.428
+Interested in computers and my husband also does some programming.
+
+00:05:55.491 --> 00:05:58.770
+And the program is very easy on this machine because
+
+00:05:58.833 --> 00:06:01.670
+you can very easily and we make mistakes very
+
+00:06:01.670 --> 00:06:04.720
+often. Primarily programming in BASIC.
+
+00:06:04.720 --> 00:06:07.082
+Thank you have a program that you wrote that that
+
+00:06:07.130 --> 00:06:08.480
+helps you make sweaters that
+
+00:06:08.480 --> 00:06:10.954
+correct that well. Help me to chart them for making
+
+00:06:11.003 --> 00:06:11.100
+as
+
+00:06:11.100 --> 00:06:13.680
+something else.
+
+00:06:13.680 --> 00:06:16.412
+Yes, this is an interactive program and as you run
+
+00:06:16.467 --> 00:06:17.560
+through the program,
+
+00:06:17.560 --> 00:06:20.007
+it asks you what style you would like you have
+
+00:06:20.061 --> 00:06:22.617
+to have one thing before you start which is the
+
+00:06:22.671 --> 00:06:25.390
+number of stitches per inch and the number of rows
+
+00:06:25.390 --> 00:06:26.360
+per inch. But you
+
+00:06:26.360 --> 00:06:28.460
+get from a swatch like this all right.
+
+00:06:28.460 --> 00:06:31.392
+We've already decided we're going to make a jacket and
+
+00:06:31.446 --> 00:06:33.672
+that we're going to have a knit-on
+
+00:06:33.727 --> 00:06:36.170
+band that is that right in one of the sweater
+
+00:06:36.170 --> 00:06:38.570
+and so we're going to have it in ribbing and
+
+00:06:38.625 --> 00:06:40.753
+now we have to decide to put one of the
+
+00:06:40.807 --> 00:06:41.080
+neck.
+
+00:06:41.080 --> 00:06:43.810
+I think will select a V-neck today and we're
+
+00:06:43.865 --> 00:06:45.940
+going to put the next day and writing,
+
+00:06:45.940 --> 00:06:48.110
+one with the front then.
+
+00:06:48.110 --> 00:06:48.570
+Through
+
+00:06:48.570 --> 00:06:49.550
+this translation
+
+00:06:49.550 --> 00:06:52.448
+through the whole thing than what kind of sleeve do
+
+00:06:52.506 --> 00:06:55.056
+you want at will escape no sleeve for this so
+
+00:06:55.114 --> 00:06:57.200
+I'm not having a raglan sleeve task?
+
+00:06:57.200 --> 00:06:58.460
+You want longer short
+
+00:06:58.460 --> 00:07:00.530
+and it will go on with this sort of
+
+00:07:00.530 --> 00:07:01.570
+thing do you want
+
+00:07:01.570 --> 00:07:04.256
+to fit its lever straight sleep and it goes on
+
+00:07:04.314 --> 00:07:05.190
+through the all
+
+00:07:05.190 --> 00:07:06.340
+the questions then?
+
+00:07:06.340 --> 00:07:07.950
+It will program shows. Yes,
+
+00:07:07.950 --> 00:07:10.337
+it will do this on the screen also but it
+
+00:07:10.396 --> 00:07:12.550
+will end up with something like this,
+
+00:07:12.550 --> 00:07:13.930
+I guess.
+
+00:07:13.930 --> 00:07:14.980
+What you'd like to
+
+00:07:14.980 --> 00:07:15.140
+do
+
+00:07:15.140 --> 00:07:17.010
+you yes now this printed out yet.
+
+00:07:17.010 --> 00:07:20.297
+This prints out all the directions for actually for a sweater
+
+00:07:20.353 --> 00:07:22.080
+very similar to one that I have
+
+00:07:22.080 --> 00:07:24.280
+an order were you designed this in your
+
+00:07:24.280 --> 00:07:25.160
+own.
+
+00:07:25.160 --> 00:07:27.590
+That's great. I'm going to turn to Mike now.
+
+00:07:27.590 --> 00:07:30.212
+If you could slide the computer over to Mike and
+
+00:07:30.267 --> 00:07:32.070
+Mike you've been using the C64
+
+00:07:32.070 --> 00:07:33.580
+to do some kind of artwork.
+
+00:07:33.580 --> 00:07:34.710
+Tell me what you do.
+
+00:07:34.710 --> 00:07:36.330
+I have made a few uh pictures
+
+00:07:36.330 --> 00:07:38.030
+screens? Particular purpose
+
+00:07:38.030 --> 00:07:40.890
+will just to make a picture or sometimes I would.
+
+00:07:43.090 --> 00:07:46.500
+It would be a title screen for a program.
+
+00:07:46.500 --> 00:07:47.880
+I was working on
+
+00:07:47.880 --> 00:07:48.210
+for
+
+00:07:48.210 --> 00:07:50.970
+a menu. You use the 6064 plus one
+
+00:07:50.970 --> 00:07:52.910
+else koala pad?
+
+00:07:52.910 --> 00:07:54.000
+Kind of software
+
+00:07:54.000 --> 00:07:56.050
+there is a koala pad uh painter
+
+00:07:56.050 --> 00:07:58.733
+so can you show some of the things you do
+
+00:07:58.798 --> 00:07:59.060
+with
+
+00:07:59.060 --> 00:08:03.346
+qualifies share? Let me load this good cola painter in
+
+00:08:03.425 --> 00:08:05.330
+okay have the menu here.
+
+00:08:05.330 --> 00:08:08.597
+You would do is you could catalogue the disc from
+
+00:08:08.663 --> 00:08:09.330
+that icon.
+
+00:08:09.330 --> 00:08:12.489
+You could save get or name and save so we
+
+00:08:12.566 --> 00:08:14.570
+can just click on the get.
+
+00:08:14.570 --> 00:08:15.750
+Suppose we want to
+
+00:08:15.750 --> 00:08:16.990
+look at the wacko's
+
+00:08:16.990 --> 00:08:20.494
+and so we click on getting up the Laco pressing
+
+00:08:20.569 --> 00:08:21.240
+a button.
+
+00:08:21.240 --> 00:08:23.850
+We have a loaded okay.
+
+00:08:23.850 --> 00:08:24.900
+This is a picture
+
+00:08:24.900 --> 00:08:27.450
+okay. That's pretty good, and that is what?
+
+00:08:27.450 --> 00:08:28.210
+What did you
+
+00:08:28.210 --> 00:08:31.202
+create this work. This is for a bulletin board that
+
+00:08:31.261 --> 00:08:33.490
+I knew the guy that was running it and
+
+00:08:33.490 --> 00:08:34.830
+he wanted to the world
+
+00:08:34.830 --> 00:08:36.580
+there a wacko.
+
+00:08:36.580 --> 00:08:38.730
+Can you pull up something else in the
+
+00:08:38.730 --> 00:08:41.010
+middle of working on sure just?
+
+00:08:41.010 --> 00:08:46.545
+Go to swap here at that is 4 program menu
+
+00:08:46.680 --> 00:08:47.760
+program.
+
+00:08:47.760 --> 00:08:50.926
+We see is the screen here and I could press
+
+00:08:50.999 --> 00:08:51.220
+um.
+
+00:08:51.220 --> 00:08:53.680
+Abcd suppose you want to add some
+
+00:08:53.680 --> 00:08:56.850
+artwork to the screen, and how you do that.
+
+00:08:56.850 --> 00:09:00.443
+Okay, there's a park on the bond still working on
+
+00:09:00.517 --> 00:09:01.910
+going to zoom here,
+
+00:09:01.910 --> 00:09:04.540
+but the window down here.
+
+00:09:04.540 --> 00:09:08.440
+And touch up these letters selected color.
+
+00:09:08.440 --> 00:09:11.710
+Are so want to get rid of the green line?
+
+00:09:11.710 --> 00:09:16.326
+That is doing pixel by pixel organ drag the pointer
+
+00:09:16.416 --> 00:09:17.050
+across.
+
+00:09:17.050 --> 00:09:19.635
+And then you could just paint a graphic in that
+
+00:09:19.690 --> 00:09:20.020
+little
+
+00:09:20.020 --> 00:09:21.470
+space in the right. If you
+
+00:09:21.470 --> 00:09:22.710
+want to do or you know
+
+00:09:22.710 --> 00:09:25.850
+this is a really it takes its time consuming.
+
+00:09:25.850 --> 00:09:28.453
+Interesting things is that this is a video composite video
+
+00:09:28.497 --> 00:09:30.965
+Samuel in camcorders and so forth so you could actually
+
+00:09:31.010 --> 00:09:32.850
+make titles and all sorts of things here.
+
+00:09:32.850 --> 00:09:34.280
+Home videos thing I guess Mike.
+
+00:09:34.280 --> 00:09:36.615
+I mean, you have your sort of graphic design station
+
+00:09:36.660 --> 00:09:39.623
+here for an investment of probably well under 400-dollars compared
+
+00:09:39.668 --> 00:09:41.150
+to some of the expensive systems.
+
+00:09:41.150 --> 00:09:43.050
+We're seemed well or that.
+
+00:09:43.050 --> 00:09:45.419
+Lucy and Mike thank you very much as we've seen
+
+00:09:45.469 --> 00:09:48.190
+users groups have been a very important element of the
+
+00:09:48.241 --> 00:09:49.450
+success of the Commodore
+
+00:09:49.450 --> 00:09:50.540
+64. We asked when the
+
+00:09:50.540 --> 00:09:53.035
+Woods to go visit a users group meeting in Foster
+
+00:09:53.085 --> 00:09:53.340
+City,
+
+00:09:53.340 --> 00:09:54.090
+California and
+
+00:09:54.090 --> 00:09:56.210
+here's a report.
+
+00:09:56.210 --> 00:09:59.420
+If you buy for price you don't always get good
+
+00:09:59.420 --> 00:10:00.380
+service. And
+
+00:10:00.380 --> 00:10:01.560
+that's especially
+
+00:10:01.560 --> 00:10:03.000
+true for Commodore 64
+
+00:10:03.000 --> 00:10:05.630
+and 128 owners whose low-cost machines.
+
+00:10:05.630 --> 00:10:06.610
+Get no support
+
+00:10:06.610 --> 00:10:08.450
+from the mass merchandisers
+
+00:10:08.450 --> 00:10:10.810
+who sell them through the Commodore
+
+00:10:10.810 --> 00:10:11.930
+users group like
+
+00:10:11.930 --> 00:10:13.570
+this one in Foster City,
+
+00:10:13.570 --> 00:10:14.750
+California, where
+
+00:10:14.750 --> 00:10:17.700
+people like Ralph Horn Brook tryout programs
+
+00:10:17.700 --> 00:10:18.690
+trade tips and
+
+00:10:18.690 --> 00:10:20.390
+just playing get the help
+
+00:10:20.390 --> 00:10:22.490
+that they need. There
+
+00:10:22.490 --> 00:10:24.060
+are almost impossible
+
+00:10:24.060 --> 00:10:24.930
+to describe
+
+00:10:24.930 --> 00:10:25.860
+the me being
+
+00:10:25.860 --> 00:10:26.930
+in an absolute
+
+00:10:26.930 --> 00:10:28.220
+neophyte 3 or 4
+
+00:10:28.220 --> 00:10:29.160
+years ago we
+
+00:10:29.160 --> 00:10:30.780
+knew nothing.
+
+00:10:30.780 --> 00:10:32.560
+You go or what do you do?
+
+00:10:32.560 --> 00:10:33.660
+How do you work
+
+00:10:33.660 --> 00:10:36.480
+these things we knew we want to get into
+
+00:10:36.480 --> 00:10:37.650
+it but we didn't
+
+00:10:37.650 --> 00:10:38.470
+know how to
+
+00:10:38.470 --> 00:10:39.640
+get into it, but
+
+00:10:39.640 --> 00:10:41.600
+we do is we offer.
+
+00:10:41.600 --> 00:10:41.990
+Formal
+
+00:10:41.990 --> 00:10:45.931
+hand-holding type meeting where if somebody doesn't understand how to
+
+00:10:45.988 --> 00:10:48.330
+use the computer, we'll sit down with them.
+
+00:10:48.330 --> 00:10:50.840
+Show them how to operated show them how to?
+
+00:10:50.840 --> 00:10:52.050
+Do the various
+
+00:10:52.050 --> 00:10:53.100
+uh processes
+
+00:10:53.100 --> 00:10:57.864
+that are required to run programs and show them how
+
+00:10:57.958 --> 00:11:00.480
+to put everything together.
+
+00:11:00.480 --> 00:11:03.220
+Just how to use their computer and use it to
+
+00:11:03.282 --> 00:11:04.590
+productive advantage.
+
+00:11:04.590 --> 00:11:05.940
+Despite the fact that
+
+00:11:05.940 --> 00:11:07.100
+the more powerful.
+
+00:11:07.100 --> 00:11:10.523
+Amiga is now seen at the Commodore users group meetings
+
+00:11:10.585 --> 00:11:11.270
+in the sea.
+
+00:11:11.270 --> 00:11:12.870
+64 is still going strong.
+
+00:11:12.870 --> 00:11:15.940
+Price keeps dropping and people keep buying them,
+
+00:11:15.940 --> 00:11:17.650
+which is why it should come
+
+00:11:17.650 --> 00:11:18.570
+as no surprise
+
+00:11:18.570 --> 00:11:22.417
+that membership in groups like this is actually increased over
+
+00:11:22.479 --> 00:11:24.030
+the years in Foster City,
+
+00:11:24.030 --> 00:11:26.490
+California for the computer chronicles.
+
+00:11:26.490 --> 00:11:27.470
+I'm Wendy Woods.
+
+00:11:41.550 --> 00:11:44.257
+With us in the studio now is Malcolm low with
+
+00:11:44.317 --> 00:11:47.505
+the Commodore West users group and next to Malcolm is
+
+00:11:47.565 --> 00:11:49.550
+Kelly flock with Electronic Arts.
+
+00:11:49.550 --> 00:11:52.300
+Earth is uh obviously a well known software producer in
+
+00:11:52.350 --> 00:11:55.650
+game software producer how important is the Commodore 64 relative.
+
+00:11:55.650 --> 00:11:58.040
+Dear old marketing plan like the Apple relative
+
+00:11:58.040 --> 00:11:58.930
+apollonian pieces
+
+00:11:58.930 --> 00:12:00.770
+of work to common is very important.
+
+00:12:00.770 --> 00:12:02.060
+I would say that it's our
+
+00:12:02.060 --> 00:12:05.140
+second most important format behind the IBM compatible format
+
+00:12:05.140 --> 00:12:07.317
+does it both come to the mix of good target
+
+00:12:07.368 --> 00:12:07.520
+for
+
+00:12:07.520 --> 00:12:08.990
+game?
+
+00:12:08.990 --> 00:12:09.540
+Probably
+
+00:12:09.540 --> 00:12:10.280
+the leading
+
+00:12:10.280 --> 00:12:14.072
+home computer with the installed base bikes 7000000 units and
+
+00:12:14.134 --> 00:12:16.620
+it's very game intensive since you know,
+
+00:12:16.620 --> 00:12:19.814
+we make a lot of it enter tainment software natural
+
+00:12:19.876 --> 00:12:20.440
+place for
+
+00:12:20.440 --> 00:12:23.247
+us to be. There's going to program in attract mode
+
+00:12:23.303 --> 00:12:26.390
+here in the background running called the wine steward.
+
+00:12:26.390 --> 00:12:27.180
+Can you tell us
+
+00:12:27.180 --> 00:12:28.810
+a little bit about that program?
+
+00:12:28.810 --> 00:12:31.344
+Yeah, sure that the ones should is a program that's
+
+00:12:31.393 --> 00:12:34.573
+designed to help people who are unfamiliar with purchasing wines
+
+00:12:34.623 --> 00:12:36.610
+to be able to make a choice based on the
+
+00:12:36.610 --> 00:12:39.480
+food that they are going to have for dinner.
+
+00:12:39.480 --> 00:12:42.482
+This is written for the 64 and it's used in
+
+00:12:42.552 --> 00:12:43.390
+supermarkets
+
+00:12:43.390 --> 00:12:44.150
+understand
+
+00:12:44.150 --> 00:12:45.590
+that's correct. Yes,
+
+00:12:45.590 --> 00:12:47.720
+I do. It shows how you use it?
+
+00:12:47.720 --> 00:12:49.710
+Yeah, sure the basic screen?
+
+00:12:49.710 --> 00:12:52.989
+Is um a menu of a choice is moving down
+
+00:12:53.073 --> 00:12:54.250
+menu with the?
+
+00:12:54.250 --> 00:12:58.152
+White button that's on the cabinet and using the green
+
+00:12:58.224 --> 00:12:58.730
+button.
+
+00:12:58.730 --> 00:13:02.474
+You select a further menu move down to the choice
+
+00:13:02.551 --> 00:13:03.850
+and select again.
+
+00:13:03.850 --> 00:13:05.960
+A choice of uh total of 9 wines.
+
+00:13:05.960 --> 00:13:06.860
+It was making
+
+00:13:06.860 --> 00:13:08.980
+its decision as to what wants to
+
+00:13:08.980 --> 00:13:12.419
+recommend an that's correct. There are 3 on the first
+
+00:13:12.484 --> 00:13:14.820
+green which are budget priced wines.
+
+00:13:14.820 --> 00:13:17.879
+The second screen offers you another 3 popular price and
+
+00:13:17.934 --> 00:13:19.190
+the third premium price
+
+00:13:19.190 --> 00:13:20.660
+wise.
+
+00:13:20.660 --> 00:13:23.250
+People like this is actually is they seem
+
+00:13:23.250 --> 00:13:24.240
+to take it very
+
+00:13:24.240 --> 00:13:27.020
+long day any particular reason why you wrote
+
+00:13:27.020 --> 00:13:30.491
+it for 64. Pretty well and easy computer program for
+
+00:13:30.558 --> 00:13:31.960
+has lots of features,
+
+00:13:31.960 --> 00:13:36.660
+particularly color and you can program different pants white.
+
+00:13:36.660 --> 00:13:39.101
+Killy let's turn to you and Uh Electronic Arts has
+
+00:13:39.150 --> 00:13:41.200
+a new game for the 64 called skate or die.
+
+00:13:41.200 --> 00:13:43.520
+And I went to tell me about that.
+
+00:13:43.520 --> 00:13:43.690
+As
+
+00:13:43.690 --> 00:13:45.040
+a multi vent game where
+
+00:13:45.040 --> 00:13:46.280
+you it's kind of like
+
+00:13:46.280 --> 00:13:47.690
+a skateboard simulation.
+
+00:13:47.690 --> 00:13:50.254
+We get to do all the things that you wouldn't
+
+00:13:50.311 --> 00:13:52.020
+normally do unless you want to
+
+00:13:52.020 --> 00:13:54.110
+risk your knees and your elbow ride.
+
+00:13:54.110 --> 00:13:54.950
+Olofin another
+
+00:13:54.950 --> 00:13:55.910
+scars as we say.
+
+00:13:55.910 --> 00:13:58.390
+Okay, Kelly. Show me how you place catered.
+
+00:13:58.390 --> 00:13:58.790
+I this
+
+00:13:58.790 --> 00:14:00.640
+is the half pipe, which isn't on
+
+00:14:00.640 --> 00:14:03.860
+regular skateboarding event. You do it to a combination.
+
+00:14:03.860 --> 00:14:08.950
+That's a kick turn of joystick moves and button controls.
+
+00:14:08.950 --> 00:14:12.010
+No need to look at the documentation
+
+00:14:12.010 --> 00:14:13.990
+do that on purpose, um,
+
+00:14:13.990 --> 00:14:14.570
+I wish.
+
+00:14:16.870 --> 00:14:20.270
+I'm trying get up in the air on this one.
+
+00:14:20.270 --> 00:14:23.010
+All right.
+
+00:14:23.010 --> 00:14:23.660
+Oh,
+
+00:14:23.660 --> 00:14:26.350
+almost.
+
+00:14:26.350 --> 00:14:29.870
+So it's a combination of joystick and the buttons.
+
+00:14:29.870 --> 00:14:30.990
+Practical
+
+00:14:30.990 --> 00:14:31.560
+nice
+
+00:14:31.560 --> 00:14:33.760
+move.
+
+00:14:33.760 --> 00:14:35.950
+However.
+
+00:14:35.950 --> 00:14:39.462
+So there are 12 different moves you can do in
+
+00:14:39.540 --> 00:14:39.930
+here.
+
+00:14:39.930 --> 00:14:42.861
+And you get points for the variety of your routine
+
+00:14:42.920 --> 00:14:45.030
+and you get bonus points at the end.
+
+00:14:45.030 --> 00:14:47.220
+So I got 8000 points is pretty good score.
+
+00:14:47.220 --> 00:14:49.010
+You can get up to 15,000 points in
+
+00:14:49.010 --> 00:14:50.540
+here.
+
+00:14:50.540 --> 00:14:53.059
+Yeah, Kelly is catered I available on any machine other
+
+00:14:53.105 --> 00:14:54.250
+than the Commodore 64 all
+
+00:14:54.250 --> 00:14:56.348
+right now, so I will only on the Commodore was
+
+00:14:56.393 --> 00:14:58.810
+designed in the common takes advantage of some unique
+
+00:14:58.810 --> 00:15:00.640
+features such as the Sprites and 6.
+
+00:15:00.640 --> 00:15:02.738
+Colors in the 3 boys is where in the process
+
+00:15:02.786 --> 00:15:05.170
+of developing further machine killers are the more
+
+00:15:05.170 --> 00:15:07.650
+things you can do. Besides just getting on this ramp
+
+00:15:07.697 --> 00:15:09.080
+or there's a lot of 5 events.
+
+00:15:09.080 --> 00:15:09.270
+The
+
+00:15:09.270 --> 00:15:10.590
+ramp is the only meta model
+
+00:15:10.590 --> 00:15:13.560
+unreal skateboarding. But there's a couple of downhill events,
+
+00:15:13.560 --> 00:15:16.106
+where you can break bottles and skate through Bush is
+
+00:15:16.154 --> 00:15:16.490
+a drain
+
+00:15:16.490 --> 00:15:17.720
+pipe and there's a pulled
+
+00:15:17.720 --> 00:15:19.890
+Yost event, where you have 3 computer points,
+
+00:15:19.890 --> 00:15:21.580
+you get that one with little marine
+
+00:15:21.580 --> 00:15:22.720
+bottoms.
+
+00:15:22.720 --> 00:15:23.470
+Pretty fun
+
+00:15:23.470 --> 00:15:25.030
+when we get what about
+
+00:15:25.030 --> 00:15:26.530
+the price this tested
+
+00:15:26.530 --> 00:15:27.480
+retail on his
+
+00:15:27.480 --> 00:15:30.441
+2995. And is there something about the current market is
+
+00:15:30.494 --> 00:15:32.980
+don't get more important than I am very only 14
+
+00:15:33.033 --> 00:15:33.350
+as the
+
+00:15:33.350 --> 00:15:35.230
+Common Market gets older. It becomes
+
+00:15:35.230 --> 00:15:36.340
+more price-sensitive.
+
+00:15:36.340 --> 00:15:37.700
+There's a lot more product
+
+00:15:37.700 --> 00:15:40.171
+developed for it as opposed to say a market like
+
+00:15:40.222 --> 00:15:40.840
+being meager
+
+00:15:40.840 --> 00:15:42.510
+there. Very few games right now,
+
+00:15:42.510 --> 00:15:45.550
+so that's going to be something you're de-emphasizing after
+
+00:15:45.550 --> 00:15:47.614
+well no that um we make it up and volume
+
+00:15:47.666 --> 00:15:48.130
+Google we
+
+00:15:48.130 --> 00:15:50.918
+do it. Welcome thank you very much Gary earlier this
+
+00:15:50.972 --> 00:15:51.240
+week.
+
+00:15:51.240 --> 00:15:53.567
+I got a chance to talk to the new president
+
+00:15:53.621 --> 00:15:54.270
+of Komondor.
+
+00:15:54.270 --> 00:15:56.524
+Max toy and I started out by asking in the
+
+00:15:56.577 --> 00:15:59.260
+Commodore looks at the 64 is really a game machine
+
+00:15:59.260 --> 00:16:01.670
+would be really easy to say that what we seen
+
+00:16:01.723 --> 00:16:04.615
+in the marketplace that is continuing to being used in
+
+00:16:04.668 --> 00:16:05.150
+business.
+
+00:16:05.150 --> 00:16:07.590
+We're seeing it used on broader applications.
+
+00:16:07.590 --> 00:16:09.450
+We've ever seen before. Commodore,
+
+00:16:09.450 --> 00:16:12.355
+64, is being used for desktop publishing being used in
+
+00:16:12.409 --> 00:16:13.700
+the small tiny business.
+
+00:16:13.700 --> 00:16:17.150
+It's been having a resurgence back in the education marketplace.
+
+00:16:17.150 --> 00:16:19.700
+So it is more much more than a toy marketplace.
+
+00:16:19.700 --> 00:16:21.782
+Now I will tell you that we have seen a
+
+00:16:21.835 --> 00:16:25.411
+growth and enhancement in the entertainement marketplace to some of
+
+00:16:25.464 --> 00:16:28.880
+the software that we're still seeing new business software being
+
+00:16:28.880 --> 00:16:30.580
+written for the product as well
+
+00:16:30.580 --> 00:16:33.231
+as it is still a current machine are people still
+
+00:16:33.285 --> 00:16:33.610
+buying
+
+00:16:33.610 --> 00:16:37.035
+counters that scored incredible thing about the parental 64 seat
+
+00:16:37.089 --> 00:16:38.480
+does continue to grow and.
+
+00:16:38.480 --> 00:16:42.288
+The market continues to expand we sell worldwide between a
+
+00:16:42.353 --> 00:16:45.636
+million and a million a half Commodore 64 is every
+
+00:16:45.702 --> 00:16:46.030
+year.
+
+00:16:46.030 --> 00:16:48.863
+What we're seeing is a whole new wave of customers
+
+00:16:48.920 --> 00:16:52.433
+coming into the marketplace Commodore 64 is always been strong
+
+00:16:52.490 --> 00:16:54.700
+in the small tiny business marketplace.
+
+00:16:54.700 --> 00:16:57.609
+We're seeing a lot of young first time users coming
+
+00:16:57.666 --> 00:16:58.750
+in the marketplace.
+
+00:16:58.750 --> 00:17:00.110
+In fact, I've heard it,
+
+00:17:00.110 --> 00:17:03.844
+said that Commodore wherever comes more first time computers users
+
+00:17:03.900 --> 00:17:06.955
+than any other company in the world brand new software
+
+00:17:07.012 --> 00:17:10.180
+is coming in the marketplace and you gotta remember it's
+
+00:17:10.180 --> 00:17:13.069
+not old technology to the first time user and we're
+
+00:17:13.126 --> 00:17:16.015
+seeing a lot of people using this computer is their
+
+00:17:16.071 --> 00:17:19.470
+first entry into the power of computing and therefore you're
+
+00:17:19.470 --> 00:17:22.758
+bringing new customers in every year come into this market
+
+00:17:22.815 --> 00:17:25.252
+place and so it is new technology as far as
+
+00:17:25.309 --> 00:17:28.710
+they're concerned and we see software people continue to use
+
+00:17:28.710 --> 00:17:32.471
+the high performance capabilities for a very high-value dollar who
+
+00:17:32.528 --> 00:17:32.870
+do you
+
+00:17:32.870 --> 00:17:35.670
+see that right now is the competition for the 64?
+
+00:17:35.670 --> 00:17:38.018
+Is it? Is it the lower-cost apple or is it
+
+00:17:38.074 --> 00:17:40.366
+the entire IAS tea or you or you going up
+
+00:17:40.422 --> 00:17:42.490
+against a Nintendo and see good away.
+
+00:17:42.490 --> 00:17:43.100
+The answer
+
+00:17:43.100 --> 00:17:44.150
+really is probably
+
+00:17:44.150 --> 00:17:46.303
+see all of the above at one end of the
+
+00:17:46.360 --> 00:17:47.040
+marketplace.
+
+00:17:47.040 --> 00:17:49.970
+You compete against the Nintendo's to game machines?
+
+00:17:49.970 --> 00:17:53.209
+What we're seeing our parents are deciding that they would
+
+00:17:53.265 --> 00:17:56.058
+much rather have more than just a game machine for
+
+00:17:56.113 --> 00:17:58.850
+their children to use and use the entertainments,
+
+00:17:58.850 --> 00:18:02.139
+software and taken the step further with education and real
+
+00:18:02.195 --> 00:18:04.480
+use that the the child can use it for but
+
+00:18:04.536 --> 00:18:07.490
+the same time were still being seen used in business,
+
+00:18:07.490 --> 00:18:10.930
+or seen it used in television production environment as well.
+
+00:18:10.930 --> 00:18:13.700
+It's a very, very important part of our business.
+
+00:18:13.700 --> 00:18:16.882
+It's continuing your girl who are continuing to spend art
+
+00:18:16.938 --> 00:18:20.510
+research and development dollars on the product and the prickles
+
+00:18:20.566 --> 00:18:22.520
+and support capable of the problem,
+
+00:18:22.520 --> 00:18:25.890
+so it's in very, very important part.
+
+00:18:25.890 --> 00:18:29.113
+Existence today in its future if you look our greatest
+
+00:18:29.172 --> 00:18:29.590
+assets.
+
+00:18:29.590 --> 00:18:32.590
+There are installed base. There are manufacturing.
+
+00:18:32.590 --> 00:18:35.890
+Indesign capability to build a machine from Silicon up.
+
+00:18:35.890 --> 00:18:38.647
+And the fact that we've got such a strong active
+
+00:18:38.704 --> 00:18:39.910
+user group community,
+
+00:18:39.910 --> 00:18:42.792
+I the passion that the Commodore users have for the
+
+00:18:42.849 --> 00:18:45.958
+Commodore machines and for what they've been able to do
+
+00:18:46.014 --> 00:18:50.140
+with those machines absolutely incredible and that's exciting that's fun.
+
+00:18:52.670 --> 00:18:53.550
+No no.
+
+00:19:01.860 --> 00:19:02.320
+Joining
+
+00:19:02.320 --> 00:19:04.440
+us in the studio now is Bill Morrow,
+
+00:19:04.440 --> 00:19:06.450
+a Commodore 64 user from Pacifica,
+
+00:19:06.450 --> 00:19:09.950
+California. Behind Bill Gary's a table full of synthesizers.
+
+00:19:09.950 --> 00:19:13.220
+All hooked up to his 64 year very accomplished musician?
+
+00:19:13.220 --> 00:19:14.540
+What is it about this?
+
+00:19:14.540 --> 00:19:17.010
+A Commodore 64 makes a good music computer
+
+00:19:17.010 --> 00:19:19.940
+and then one day inexpensive?
+
+00:19:19.940 --> 00:19:20.260
+The
+
+00:19:20.260 --> 00:19:23.870
+other thing is the Sid Chip in that uh sound
+
+00:19:23.952 --> 00:19:24.690
+interface
+
+00:19:24.690 --> 00:19:27.660
+device and it was a situate do.
+
+00:19:27.660 --> 00:19:32.200
+It makes sense. It has 3.
+
+00:19:32.200 --> 00:19:33.050
+Musicians in
+
+00:19:33.050 --> 00:19:34.240
+its you could say
+
+00:19:34.240 --> 00:19:37.060
+and these 3 musicians can play individual.
+
+00:19:37.060 --> 00:19:38.050
+Notes separate
+
+00:19:38.050 --> 00:19:39.160
+or they can play
+
+00:19:39.160 --> 00:19:42.552
+on simultaneously. We can have up Lou Anna Bays and
+
+00:19:42.618 --> 00:19:44.680
+a violin plan all at same time,
+
+00:19:44.680 --> 00:19:46.720
+giving you can experiment with
+
+00:19:46.720 --> 00:19:49.470
+the different sounds and exciting so far.
+
+00:19:49.470 --> 00:19:50.060
+I didn't
+
+00:19:50.060 --> 00:19:52.950
+study. These tax deal. A sustained release.
+
+00:19:52.950 --> 00:19:54.400
+You got some software
+
+00:19:54.400 --> 00:19:58.778
+in here. Some composition software called Master composers and she
+
+00:19:58.844 --> 00:20:00.370
+was how that works use.
+
+00:20:00.370 --> 00:20:02.850
+This is s*** bill.
+
+00:20:02.850 --> 00:20:03.220
+Here
+
+00:20:03.220 --> 00:20:04.130
+you can see
+
+00:20:04.130 --> 00:20:05.480
+I already entered
+
+00:20:05.480 --> 00:20:06.610
+after you know
+
+00:20:06.610 --> 00:20:08.040
+you'll be here and
+
+00:20:08.040 --> 00:20:11.430
+I have 3 boys is I've got my musician number
+
+00:20:11.430 --> 00:20:11.960
+2 here.
+
+00:20:15.220 --> 00:20:16.480
+You see I have
+
+00:20:16.480 --> 00:20:18.160
+some rest up there,
+
+00:20:18.160 --> 00:20:21.333
+so I have about I would say I have 16
+
+00:20:21.418 --> 00:20:22.190
+positions
+
+00:20:22.190 --> 00:20:24.660
+that I can scoop.
+
+00:20:24.660 --> 00:20:26.922
+Want to go ahead and out and listen to that
+
+00:20:26.974 --> 00:20:27.290
+music.
+
+00:20:27.290 --> 00:20:29.600
+You just put in there and this is using only
+
+00:20:29.653 --> 00:20:30.230
+a situation
+
+00:20:30.230 --> 00:20:31.520
+right. No uh synthesized
+
+00:20:31.520 --> 00:20:32.610
+now, just to comment
+
+00:20:32.610 --> 00:20:33.770
+on okay. I'll We
+
+00:20:33.770 --> 00:20:35.610
+want to listen to uh.
+
+00:20:38.780 --> 00:20:39.830
+And it's showing the
+
+00:20:39.830 --> 00:20:41.180
+notes that it's playing in
+
+00:20:41.180 --> 00:20:42.930
+the goes on. That's
+
+00:20:42.930 --> 00:20:45.030
+all just aiming at a slightly for as
+
+00:20:45.030 --> 00:20:46.390
+they are playing at all
+
+00:20:46.390 --> 00:20:49.030
+coming out of 54, no help.
+
+00:20:49.030 --> 00:20:50.760
+Another notes you had entered
+
+00:20:50.760 --> 00:20:52.960
+before I hope this.
+
+00:20:52.960 --> 00:20:55.670
+Okay, can, we turn that off just a second.
+
+00:20:55.670 --> 00:20:57.352
+And I want to ask you now to give us
+
+00:20:57.399 --> 00:20:59.501
+the whole ball game here and hook up all your
+
+00:20:59.548 --> 00:21:01.790
+synthesizers and see if the 64 can handle all of
+
+00:21:01.790 --> 00:21:03.920
+that? What do we do to do that?
+
+00:21:03.920 --> 00:21:04.610
+First of
+
+00:21:04.610 --> 00:21:05.680
+all I had the
+
+00:21:05.680 --> 00:21:09.440
+media any phrase Hook to the Commodore hooked up
+
+00:21:09.440 --> 00:21:13.350
+with the Commodore and for the midi fit interface.
+
+00:21:13.350 --> 00:21:16.340
+I go through a mimetite rhubarb boxes.
+
+00:21:16.340 --> 00:21:18.860
+We can see from that I hooked up
+
+00:21:18.860 --> 00:21:21.010
+to 123 keyboards, which all
+
+00:21:21.010 --> 00:21:23.850
+are multi channels and I have about.
+
+00:21:23.850 --> 00:21:25.070
+I have about 14
+
+00:21:25.070 --> 00:21:26.990
+channels or tracks would
+
+00:21:26.990 --> 00:21:30.050
+make of amassed track different tracks.
+
+00:21:30.050 --> 00:21:33.040
+Running then we have the drum machine.
+
+00:21:33.040 --> 00:21:36.490
+Ankama sounds unit rate was about 16 checks?
+
+00:21:36.490 --> 00:21:37.570
+What software
+
+00:21:37.570 --> 00:21:40.020
+is controlling off the software
+
+00:21:40.020 --> 00:21:41.750
+is.
+
+00:21:41.750 --> 00:21:43.780
+Software and it's a very
+
+00:21:43.780 --> 00:21:45.240
+powerful software
+
+00:21:45.240 --> 00:21:48.640
+you can. Record with this dislike
+
+00:21:48.640 --> 00:21:49.730
+you recording
+
+00:21:49.730 --> 00:21:51.360
+in a studio my case,
+
+00:21:51.360 --> 00:21:51.600
+it
+
+00:21:51.600 --> 00:21:52.610
+take one you
+
+00:21:52.610 --> 00:21:56.470
+play all you can insert the notes?
+
+00:21:56.470 --> 00:21:56.740
+From
+
+00:21:56.740 --> 00:21:58.500
+okay how bout take one let's see
+
+00:21:58.500 --> 00:22:00.420
+what it sounds like acid take one's
+
+00:22:00.420 --> 00:22:00.900
+Lee okay.
+
+00:22:03.480 --> 00:22:04.110
+Those
+
+00:22:04.110 --> 00:22:09.356
+which are doing I'm doing an original tune that I
+
+00:22:09.463 --> 00:22:10.320
+am James
+
+00:22:10.320 --> 00:22:11.850
+Anderson coat.
+
+00:22:11.850 --> 00:22:12.280
+Okay.
+
+00:22:18.200 --> 00:22:18.820
+Pretty darn
+
+00:22:18.820 --> 00:22:19.080
+good.
+
+00:22:22.220 --> 00:22:22.930
+Now let me let
+
+00:22:22.930 --> 00:22:24.400
+me ask you, you're a musician.
+
+00:22:24.400 --> 00:22:27.332
+What's the what's the pleasure of working with something like
+
+00:22:27.380 --> 00:22:27.620
+this,
+
+00:22:27.620 --> 00:22:30.020
+see 64. You told us before you were thinking about
+
+00:22:30.068 --> 00:22:31.700
+getting out of the music business.
+
+00:22:31.700 --> 00:22:31.890
+But
+
+00:22:31.890 --> 00:22:33.220
+now you're back in pleasure
+
+00:22:33.220 --> 00:22:35.930
+is that don't have to.
+
+00:22:35.930 --> 00:22:38.835
+Have a lot of musicians to rehearse where I don't
+
+00:22:38.895 --> 00:22:40.140
+have to tell me play.
+
+00:22:40.140 --> 00:22:40.720
+My musics
+
+00:22:40.720 --> 00:22:41.600
+simple. I want
+
+00:22:41.600 --> 00:22:44.110
+you know, and I've got a drummer that this
+
+00:22:44.110 --> 00:22:45.230
+crazy machine will
+
+00:22:45.230 --> 00:22:47.777
+just play all day long and I must have time
+
+00:22:47.836 --> 00:22:49.080
+I wear musicians out.
+
+00:22:49.080 --> 00:22:51.970
+I like to rehearse rehearse with her.
+
+00:22:51.970 --> 00:22:53.260
+Guys around time through
+
+00:22:53.260 --> 00:22:56.530
+the composer and musician have more control their more control
+
+00:22:56.530 --> 00:22:58.090
+with Pretty Little investment
+
+00:22:58.090 --> 00:22:59.120
+as you said. I said
+
+00:22:59.120 --> 00:23:00.940
+very cheap. Exactly thanks so much
+
+00:23:00.940 --> 00:23:03.579
+for being here bill that's a look at the Commodore
+
+00:23:03.632 --> 00:23:03.790
+64.
+
+00:23:03.790 --> 00:23:06.488
+Hope you'll see here again next week on the computer
+
+00:23:06.539 --> 00:23:07.110
+chronicles.
+
+00:23:18.770 --> 00:23:20.270
+And the random access file
+
+00:23:20.270 --> 00:23:21.440
+this week, there are
+
+00:23:21.440 --> 00:23:24.377
+reports that the new debased 4 program has some bugs
+
+00:23:24.434 --> 00:23:25.620
+in the SQL mode bite.
+
+00:23:25.620 --> 00:23:29.020
+Magazines micro bites service in a company called quad base.
+
+00:23:29.020 --> 00:23:32.438
+Both reported that responses to SQL query statements can lead
+
+00:23:32.494 --> 00:23:35.352
+to incorrect reports on the number of records or to
+
+00:23:35.408 --> 00:23:38.770
+an internal error message that prevents the execution of the
+
+00:23:38.770 --> 00:23:42.105
+query. Ashton Tate says it is investigating the reports the
+
+00:23:42.162 --> 00:23:42.840
+in Verviers,
+
+00:23:42.840 --> 00:23:46.020
+which attack the Macintosh community several months ago,
+
+00:23:46.020 --> 00:23:47.690
+has been discovered on a Mac.
+
+00:23:47.690 --> 00:23:51.135
+Cdrom disc a public-domain software virus infected 7 files in
+
+00:23:51.192 --> 00:23:51.700
+the disk,
+
+00:23:51.700 --> 00:23:53.880
+including a hypercard stack and stuff,
+
+00:23:53.880 --> 00:23:56.293
+it the disk is called the Mega ROM and it's
+
+00:23:56.349 --> 00:23:59.603
+produced by quantum leap of knowledge and the company says
+
+00:23:59.659 --> 00:24:02.240
+it has found out a laminated the virus and new
+
+00:24:02.240 --> 00:24:05.709
+copies of the death for clean viruses path through a
+
+00:24:05.776 --> 00:24:07.510
+hard disk quality alcohol.
+
+00:24:07.510 --> 00:24:10.190
+Cause with an unrecoverable systems crash,
+
+00:24:10.190 --> 00:24:14.414
+the virus reportedly can be detected by the virus detected
+
+00:24:14.487 --> 00:24:17.910
+program by Apple's program called virus are ex.
+
+00:24:17.910 --> 00:24:20.752
+The Russians say they had been hit by their first
+
+00:24:20.810 --> 00:24:21.680
+computer virus.
+
+00:24:21.680 --> 00:24:23.910
+The virus known as dos 62 infected 80.
+
+00:24:23.910 --> 00:24:26.360
+Computers at the USSR Academy of Sciences.
+
+00:24:26.360 --> 00:24:29.050
+Russian suspect the virus got into the system.
+
+00:24:29.050 --> 00:24:33.773
+After some students who attended an international summer computer camp
+
+00:24:33.840 --> 00:24:38.630
+attempted to copy some infected programs using the academy's computers.
+
+00:24:38.630 --> 00:24:42.321
+IBM says it has developed a new experimental circuit that
+
+00:24:42.385 --> 00:24:45.040
+could lead to peace with mainframe speed.
+
+00:24:45.040 --> 00:24:47.480
+The cmos circuit is one of 330 fifth.
+
+00:24:47.480 --> 00:24:50.864
+NIS of a human hair switch on and off 30,000,000,000
+
+00:24:50.929 --> 00:24:51.320
+times.
+
+00:24:51.320 --> 00:24:54.982
+A second memory chip using the new circuit could contain
+
+00:24:55.047 --> 00:24:57.270
+up to 256 megabits of information.
+
+00:24:57.270 --> 00:25:00.650
+Time for this week software review here's Paul Schindler.
+
+00:25:00.650 --> 00:25:03.764
+And are available minute. We can't settle the age old
+
+00:25:03.823 --> 00:25:07.290
+question of whether you really need an encyclopedia or not.
+
+00:25:07.290 --> 00:25:09.560
+But if you decide you do for yourself,
+
+00:25:09.560 --> 00:25:12.723
+or your children, which would you rather have these 20
+
+00:25:12.781 --> 00:25:14.480
+volumes or this compact disc?
+
+00:25:14.480 --> 00:25:17.891
+The electronic encyclopedia and it contains all the text from
+
+00:25:17.947 --> 00:25:19.960
+the academic American Encyclopaedia.
+
+00:25:19.960 --> 00:25:22.120
+That's 9 million words 30,000 entries,
+
+00:25:22.120 --> 00:25:24.490
+60 megabytes of data you can pay a dollar.
+
+00:25:24.490 --> 00:25:27.672
+A minute to access this encyclopedia online via Dow Jones
+
+00:25:27.727 --> 00:25:30.072
+or you pay $300 once and have this in your
+
+00:25:30.128 --> 00:25:30.630
+home now.
+
+00:25:30.630 --> 00:25:32.460
+We're going to show any screens.
+
+00:25:32.460 --> 00:25:35.743
+Today could screens full of text aren't very interesting to
+
+00:25:35.799 --> 00:25:38.025
+look at but I can tell you that when you
+
+00:25:38.080 --> 00:25:41.920
+give the electronic encyclopedia search program that word finds every
+
+00:25:41.920 --> 00:25:44.850
+article in the encyclopedia that includes that word,
+
+00:25:44.850 --> 00:25:47.220
+and tells you the headline of the article.
+
+00:25:47.220 --> 00:25:49.461
+You can read it printed or put in a disk
+
+00:25:49.517 --> 00:25:51.590
+loud be careful what you do with that
+
+00:25:51.590 --> 00:25:52.870
+disk because you don't
+
+00:25:52.870 --> 00:25:54.750
+want to plagiarize this work now.
+
+00:25:54.750 --> 00:25:56.932
+I know in order to use this you need an
+
+00:25:56.988 --> 00:25:59.170
+800-dollars Cdrom Claire for your p****
+
+00:25:59.170 --> 00:26:02.558
+believe me, this isn't the last Cdrom program you'll wants
+
+00:26:02.617 --> 00:26:04.720
+the electronic encyclopedia is $300.
+
+00:26:04.720 --> 00:26:08.890
+Electronic publishing in New York for the computer chronicles.
+
+00:26:08.890 --> 00:26:13.823
+I'm Paula, Schindler, Hewlett-Packard has announced that it is introducing
+
+00:26:13.890 --> 00:26:15.890
+a new 386 computer users easy.
+
+00:26:15.890 --> 00:26:19.590
+Isa bus architecture bus will enable 32 bit throughput,
+
+00:26:19.590 --> 00:26:23.090
+but will be compatible with existing 80 type boards.
+
+00:26:23.090 --> 00:26:26.217
+The new-age be machine is that the ship and the
+
+00:26:26.284 --> 00:26:30.409
+second half of 1989 sack technologies introduced a new English
+
+00:26:30.475 --> 00:26:33.070
+language dos interface called dos talk.
+
+00:26:33.070 --> 00:26:36.259
+It's a piece of Lisp software that lets you type
+
+00:26:36.325 --> 00:26:40.776
+in natural language commands for normal dot functions that software
+
+00:26:40.843 --> 00:26:45.360
+sells for $89.95 short electronics of Singapore has introduced facts
+
+00:26:45.360 --> 00:26:47.070
+illite. It's a black box,
+
+00:26:47.070 --> 00:26:50.586
+which attaches to your computer or let your fax board
+
+00:26:50.652 --> 00:26:53.704
+with the facts is turned off the box will sell
+
+00:26:53.770 --> 00:26:54.500
+$445 it go.
+
+00:26:54.500 --> 00:26:57.757
+What happens when 2 computerized machines mate you get an
+
+00:26:57.814 --> 00:27:00.843
+ATM machine that sells stamps Echo Bank of Pitts Burg
+
+00:27:00.900 --> 00:27:03.700
+is selling the new machines to banks and the nice
+
+00:27:03.700 --> 00:27:05.690
+part is you don't even need money.
+
+00:27:05.690 --> 00:27:09.704
+ATM will automatically charge your checking account for the stamps
+
+00:27:09.764 --> 00:27:10.190
+to buy.
+
+00:27:10.190 --> 00:27:13.320
+Random access I'm simply steel.
+
+00:27:13.320 --> 00:27:15.860
+Computer chronicles is made possible
+
+00:27:15.860 --> 00:27:17.090
+in part by McGraw
+
+00:27:17.090 --> 00:27:21.303
+Hill Publishers, a byte magazine and fix the bite information
+
+00:27:21.372 --> 00:27:25.033
+exchange in print and online by 10 big serve computer
+
+00:27:25.102 --> 00:27:26.000
+professionals
+
+00:27:26.000 --> 00:27:27.020
+worldwide with
+
+00:27:27.020 --> 00:27:28.460
+detailed information
+
+00:27:28.460 --> 00:27:29.630
+on new hardware,
+
+00:27:29.630 --> 00:27:32.840
+software, and technologies.
+
+00:27:32.840 --> 00:27:37.930
+Or, a transcript of this week's computer chronicles
+
+00:27:37.930 --> 00:27:38.410
+send
+
+00:27:38.410 --> 00:27:40.860
+$4 Tupi TV publications,
+
+00:27:40.860 --> 00:27:41.740
+P.O. Box
+
+00:27:41.740 --> 00:27:46.130
+701 Ohio 44240. Please indicate program date.
+
