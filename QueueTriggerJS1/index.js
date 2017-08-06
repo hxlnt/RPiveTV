@@ -10,7 +10,7 @@ module.exports = function (context, myQueueItem) {
 
     const query = new azure.TableQuery().where('VTT eq ?', '');
     let videoresult = '';
-    
+
     // Vindexer.search({
     //     // Optional
     //     language: 'English',
@@ -24,11 +24,11 @@ module.exports = function (context, myQueueItem) {
 
     tableSvc.queryEntities('bluescreenofdeath', query, null, function (error, result, response) {
         if (!error) {
-            videoresult = JSON.parse(result.body)
-            for (i = 0; i < videoresult.results.length; i++) {
-                context.log(`part 1... loop through ${videoresult.results.length} times`)
-                Vindexer.uploadVideo(videoresult.results[i].url._, {
-                    name: videoresult.results[i].RowKey._ + videoresult.results[i].RowKey._,
+            // videoresult = JSON.parse(result.body)
+            for (i = 0; i < result.length; i++) {
+                context.log(`part 1... loop through ${result.length} times`)
+                Vindexer.uploadVideo(results[i].url._, {
+                    name: results[i].RowKey._ + results[i].RowKey._,
                     privacy: 'Private',
                     language: 'English'
                 })
