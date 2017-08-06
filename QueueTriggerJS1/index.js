@@ -38,12 +38,12 @@ module.exports = function (context, myQueueItem) {
                     language: 'English'
                 })
                     .then(function () {
-                        videoresult = JSON.parse(result.body)
+                        videoresult = JSON.parse(response.body)
                         context.log(`return from previous call: ${videoresult}`)
                         Vindexer.getVttUrl(videoresult)
                     })
                     .then(function () {
-                        vttresult = JSON.parse(result.body)
+                        vttresult = JSON.parse(response.body)
                         tableSvc.mergeEntity('bluescreenofdeath', { PartitionKey: currPK, RowKey: currRK, VTT: vttresults }, { echoContent: true }, function (error, result, response) {
                             context.log(`vtt updated`);
                         })
