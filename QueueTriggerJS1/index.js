@@ -10,6 +10,8 @@ module.exports = function (context, myQueueItem) {
 
     const query = new azure.TableQuery().where('VTT eq ?', '');
     let videoresult = '';
+    let currPK = '';
+    let currRK = '';
 
     // Vindexer.search({
     //     // Optional
@@ -27,14 +29,16 @@ module.exports = function (context, myQueueItem) {
             // videoresult = JSON.parse(result.body)
             context.log(result)
             for (i = 0; i < result.entries.length; i++) {
-                context.log(result.entries[i].url._)
+                context.log(result.entries[i].url._);
+                currPK = result.entries[i].PartitionKey._;
+                currRK = result.entries[i].RowKey._;
                 Vindexer.uploadVideo(result.entries[i].url._, {
-                    name: result.entries[i].RowKey._ + result.entries[i].RowKey._,
+                    name: currPK + currRK,
                     privacy: 'Private',
                     language: 'English'
                 })
                     //.then(Vindexer.getVttUrl(result.body))
-                    .then(tableSvc.mergeEntity('bluescreenofdeath', { VTT: "test" }, { echoContent: true }, function (error, result, response) {
+                    .then(tableSvc.mergeEntity('bluescreenofdeath', { PartitionKey: currPK, RowKey: currRK, VTT: "test" }, { echoContent: true }, function (error, result, response) {
                         context.log(`vtt updated`);
                     })
                 );
