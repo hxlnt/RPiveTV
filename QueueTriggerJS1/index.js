@@ -10,6 +10,7 @@ module.exports = function (context, myQueueItem) {
 
     const query = new azure.TableQuery().where('VTT eq ?', '');
     let videoresult = '';
+    let vttresult = '';
     let currPK = '';
     let currRK = '';
 
@@ -26,24 +27,27 @@ module.exports = function (context, myQueueItem) {
 
     tableSvc.queryEntities('bluescreenofdeath', query, null, function (error, result, response) {
         if (!error) {
-            // videoresult = JSON.parse(result.body)
             context.log(result)
             for (i = 0; i < result.entries.length; i++) {
                 context.log(result.entries[i].url._);
                 currPK = result.entries[i].PartitionKey._;
                 currRK = result.entries[i].RowKey._;
-                var videoresults = Vindexer.uploadVideo(result.entries[i].url._, {
+                Vindexer.uploadVideo(result.entries[i].url._, {
                     name: currPK + currRK,
                     privacy: 'Private',
                     language: 'English'
                 })
-                    .then(function(){
-                        context.log(`return from previous call: ${response.body}`)
-                        Vindexer.getVttUrl(response.body)})
-                    .then(tableSvc.mergeEntity('bluescreenofdeath', { PartitionKey: currPK, RowKey: currRK, VTT: response.body }, { echoContent: true }, function (error, result, response) {
-                        context.log(`vtt updated`);
+                    .then(function () {
+                        videoresult = JSON.parse(result.body)
+                        context.log(`return from previous call: ${videoresult}`)
+                        Vindexer.getVttUrl(videoresult)
                     })
-                );
+                    .then(function () {
+                        vttresult = JSON.parse(result.body)
+                        tableSvc.mergeEntity('bluescreenofdeath', { PartitionKey: currPK, RowKey: currRK, VTT: vttresults }, { echoContent: true }, function (error, result, response) {
+                            context.log(`vtt updated`);
+                        })
+                    });
             }
         }
         else { context.log(`error`); }
