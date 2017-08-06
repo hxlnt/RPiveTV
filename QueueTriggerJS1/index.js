@@ -29,7 +29,7 @@ module.exports = function (context, myQueueItem) {
             for (i = 0; i < result.entries.length; i++) {
                 context.log(`part 1... loop through ${result.entries.length} times`)
                 Vindexer.uploadVideo(result.entries[i].url._, {
-                    name: results.entries[i].RowKey._ + results.entries[i].RowKey._,
+                    name: result.entries[i].RowKey._ + result.entries[i].RowKey._,
                     privacy: 'Private',
                     language: 'English'
                 })
