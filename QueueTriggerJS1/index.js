@@ -32,15 +32,15 @@ module.exports = function (context, myQueueItem) {
                 context.log(result.entries[i].url._);
                 currPK = result.entries[i].PartitionKey._;
                 currRK = result.entries[i].RowKey._;
-                Vindexer.uploadVideo(result.entries[i].url._, {
+                var videoresults = Vindexer.uploadVideo(result.entries[i].url._, {
                     name: currPK + currRK,
                     privacy: 'Private',
                     language: 'English'
                 })
                     .then(function(){
-                        context.log(`return from previous call: ${result.body}`)
-                        Vindexer.getVttUrl(result.body)})
-                    .then(tableSvc.mergeEntity('bluescreenofdeath', { PartitionKey: currPK, RowKey: currRK, VTT: result.body }, { echoContent: true }, function (error, result, response) {
+                        context.log(`return from previous call: ${response.body}`)
+                        Vindexer.getVttUrl(response.body)})
+                    .then(tableSvc.mergeEntity('bluescreenofdeath', { PartitionKey: currPK, RowKey: currRK, VTT: response.body }, { echoContent: true }, function (error, result, response) {
                         context.log(`vtt updated`);
                     })
                 );
