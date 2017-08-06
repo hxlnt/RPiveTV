@@ -37,15 +37,15 @@ module.exports = function (context, myQueueItem) {
                     privacy: 'Private',
                     language: 'English'
                 })
-                    .then(function () {
+                    .then(function(response) {
                         videoresult = JSON.parse(response.body)
                         context.log(`return from previous call: ${videoresult}`)
                         Vindexer.getVttUrl(videoresult)
                     })
-                    .then(function () {
+                    .then(function(response) {
                         vttresult = JSON.parse(response.body)
                         tableSvc.mergeEntity('bluescreenofdeath', { PartitionKey: currPK, RowKey: currRK, VTT: vttresults }, { echoContent: true }, function (error, result, response) {
-                            context.log(`vtt updated`);
+                             context.log(`vtt updated`);
                         })
                     });
             }
