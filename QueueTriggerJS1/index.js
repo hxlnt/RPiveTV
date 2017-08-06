@@ -1,8 +1,7 @@
 module.exports = function (context, myQueueItem) {
     context.log('JavaScript queue trigger function processed work item', myQueueItem);
 
-
-    //Set up Azure Storage credentials
+    //Set up Azure credentials
     const azure = require('azure-storage');
     const tableSvc = azure.createTableService(process.env.azurestoragename, process.env.azurestoragekey);
     const vindexer = require("video-indexer");
@@ -13,17 +12,6 @@ module.exports = function (context, myQueueItem) {
     let vttresult = '';
     let currPK = '';
     let currRK = '';
-
-    // Vindexer.search({
-    //     // Optional
-    //     language: 'English',
-    //     searchInPublicAccount: false
-    // })
-    // .then(function(result){ 
-    //     videoresult = JSON.parse(result.body)
-    //     context.log(`first video breakdown id: ${videoresult.results[1].id}`);
-    //     Vindexer.getVttUrl(videoresult.results[1].id).then(function (result){ context.log(`VTT URL: ${result.body}`); });
-    // })
 
     tableSvc.queryEntities('bluescreenofdeath', query, null, function (error, result, response) {
         if (!error) {

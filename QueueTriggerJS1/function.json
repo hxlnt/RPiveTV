@@ -7,6 +7,13 @@
       "direction": "in",
       "queueName": "js-queue-items",
       "connection": ""
+    },
+    {
+      "name": "rpivetvtable",
+      "type": "table",
+      "tableName": "bluescreenofdeath",
+      "connection": "MyStorageConnection",
+      "direction": "in"
     }
   ]
 }
