@@ -40,9 +40,10 @@ module.exports = function (context, myQueueItem) {
                     .then(function(response) {
                         videoresult = JSON.parse(response.body)
                         context.log(`return from previous call: ${videoresult}`)
-                        Vindexer.getVttUrl(videoresult).then(function(response) {
-                            vttresult = JSON.parse(response.body)
-                            tableSvc.mergeEntity('bluescreenofdeath', { PartitionKey: currPK, RowKey: currRK, VTT: vttresults }, { echoContent: true }, function (error, result, response) {
+                        Vindexer.getVttUrl(videoresult).then(function(response2) {
+                            vttresult = JSON.parse(response2.body)
+                            context.log(`vtt result: ${vttresult}`)
+                            tableSvc.mergeEntity('bluescreenofdeath', { PartitionKey: currPK, RowKey: currRK, VTT: vttresult }, { echoContent: true }, function (error, result, response) {
                                 context.log(`vtt updated`);
                             })
                         });
