@@ -27,15 +27,15 @@ module.exports = function (context, myQueueItem) {
             // videoresult = JSON.parse(result.body)
             context.log(result)
             for (i = 0; i < result.entries.length; i++) {
-                context.log(`part 1... loop through ${result.entries.length} times`)
+                context.log(result.entries[i].url._)
                 Vindexer.uploadVideo(result.entries[i].url._, {
                     name: result.entries[i].RowKey._ + result.entries[i].RowKey._,
                     privacy: 'Private',
                     language: 'English'
                 })
-                    .then(Vindexer.getVttUrl(result.body))
-                    .then(tableSvc.mergeEntity('bluescreenofdeath', { VTT: result.body }, { echoContent: true }, function (error, result, response) {
-                        context.log(`vtt updated: ${result.body}`);
+                    //.then(Vindexer.getVttUrl(result.body))
+                    .then(tableSvc.mergeEntity('bluescreenofdeath', { VTT: "test" }, { echoContent: true }, function (error, result, response) {
+                        context.log(`vtt updated`);
                     })
                 );
             }
