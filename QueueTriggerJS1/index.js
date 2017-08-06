@@ -37,7 +37,9 @@ module.exports = function (context, myQueueItem) {
                     privacy: 'Private',
                     language: 'English'
                 })
-                    .then(Vindexer.getVttUrl(result.body))
+                    .then(function(){
+                        context.log(`return from previous call: ${result.body}`)
+                        Vindexer.getVttUrl(result.body)})
                     .then(tableSvc.mergeEntity('bluescreenofdeath', { PartitionKey: currPK, RowKey: currRK, VTT: result.body }, { echoContent: true }, function (error, result, response) {
                         context.log(`vtt updated`);
                     })
