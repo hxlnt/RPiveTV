@@ -25,6 +25,7 @@ module.exports = function (context, myQueueItem) {
     tableSvc.queryEntities('bluescreenofdeath', query, null, function (error, result, response) {
         if (!error) {
             // videoresult = JSON.parse(result.body)
+            context.log(result)
             for (i = 0; i < result.length; i++) {
                 context.log(`part 1... loop through ${result.length} times`)
                 Vindexer.uploadVideo(results[i].url._, {
